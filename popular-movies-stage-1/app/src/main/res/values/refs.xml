@@ -1,0 +1,6 @@
+<resources>
+
+
+	<item name="movie_list_fragment" type="layout">@layout/movie_list_fragment_phone_portait</item>
+
+</resources>
